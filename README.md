@@ -1,112 +1,52 @@
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;">&nbsp;</p>
-<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
+**NSU CPC**
+**Syed Sakib-Ur-Rahman**
+**1712265**
+
+
+**1. Introduction**
+The app is for who are connected with Norhtsouth University Career & Placement Center.
+
+The app has two panels. One for Admins and Another for Students.
+
+Admins can upload/edit jobs with respective datas, and create student's email & password entry. They can filter dropped CVs before sending them to company.
+
+Students can view available jobs and drop Cv accordingly. 
+
+
+**2. Features** 
+
+![Screenshot_20210527-101856_NSU CPC](https://user-images.githubusercontent.com/45916262/119766324-9fe81d00-bed6-11eb-9f8f-579c7864fe9b.jpg)
 
 
 
-<p align="center"><strong>North South University</strong></p>
-<p align="center">Department of Electrical &amp; Computer Engineering</p>
-<p align="center"><strong>Course Repository</strong></p>
-<p align="center"><strong>SPRING 2021 </strong></p>
+![Screenshot_20210527-101859_NSU CPC](https://user-images.githubusercontent.com/45916262/119766330-a1194a00-bed6-11eb-92af-e45bb57d05d5.jpg)
+![Screenshot_20210527-101903_NSU CPC](https://user-images.githubusercontent.com/45916262/119766344-a8405800-bed6-11eb-8b36-3c9fd5b301f5.jpg)
+![Screenshot_20210527-101859_NSU CPC](https://user-images.githubusercontent.com/45916262/119766338-a6769480-bed6-11eb-9323-676b4c8c963e.jpg)
+![Screenshot_20210527-101903_NSU CPC](https://user-images.githubusercontent.com/45916262/119766364-af676600-bed6-11eb-9c7a-e08dd9f344a3.jpg)
 
 
-<p align="center"><strong>Course Name</strong>: Mobile and Wireless Application Development </p>
-<p align="center"><strong>Course No</strong>: CSE 486 <strong>Sec</strong><strong>:</strong> 01</p>
-<p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (SAS3)</p>
-<p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
-<p align="center"><strong>Name</strong><strong>:</strong> Syed Sakib-Ur-Rahman</p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1712265</p>
-<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:syed.rahman03@northsouth.edu">syed.rahman03@northsouth.edu</a></p>
 
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="github.com/NSU-SP21-CSE486-1/1712265-SP21-CSE486-S01">github.com/NSU-SP21-CSE486-1/1712265-SP21-CSE486-S01</a></p>
+![Screenshot_20210527-101909_NSU CPC](https://user-images.githubusercontent.com/45916262/119766121-47b11b00-bed6-11eb-9223-1a316837983c.jpg)
 
-<p align="center"><strong>Date Prepared</strong><strong>: </strong>March 03, 2021</p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
+![Screenshot_20210527-101921_NSU CPC](https://user-images.githubusercontent.com/45916262/119766142-4ed82900-bed6-11eb-96c1-730a34ff9270.jpg)
+![Screenshot_20210527-101924_NSU CPC](https://user-images.githubusercontent.com/45916262/119766143-50a1ec80-bed6-11eb-977a-53bbd131385e.jpg)
+![Screenshot_20210527-101928_NSU CPC](https://user-images.githubusercontent.com/45916262/119766151-53044680-bed6-11eb-9315-67321e830394.jpg)
+![Screenshot_20210527-101933_NSU CPC](https://user-images.githubusercontent.com/45916262/119766157-5566a080-bed6-11eb-8dc2-6b0d7dcc86b4.jpg)
 
 
---------------------------------------------------------------------------------------------
 
-Repository for all work in CSE486.1
 
-Folder Structure:
 
-1712265-SP21-CSE486-S01
 
-|-------- Lab
 
-              |------------- README.md
+**3. Data Managments**
 
-              |------------- Lab01
+I have used Firebase Database as it is fast , secure and can mange larger amount of data. 
 
-              |------------- Lab02
 
-              |------------- Lab03
 
-              |------------- Lab04
 
-              |------------- Lab05
 
-              |------------- Lab06
 
-              |------------- Lab07
 
-              |------------- Lab08
 
-              |------------- Lab09
-
-              |------------- Lab10
-
-              |------------- Lab11
-
-              |------------- Lab12
-
-              |------------- Lab13
-
-|-------- Practice
-
-              |------------- README.md
-
-              |------------- Practice001
-
-              |------------- Practice002
-
-|-------- Project
-
-              |------------- README.md
-
-              |------------- Version01
-
-              |------------- Version02
-
-              |------------- Version03
-
-              |------------- Version04
-
-              |------------- Version05
-
-|-------- Theory
-
-              |------------- README.md
-
-              |------------- Assignment
-
-                            |------------- Assignment01
-
-                            |------------- Assignment02
-
-                            |------------- Assignment03
-
-                            |------------- Assignment04
-
-              |------------- Quiz
-
-                            |------------- Quiz01
-
-                            |------------- Quiz02
-
-                            |------------- Quiz03
-
-                            |------------- Quiz04
-
-              
