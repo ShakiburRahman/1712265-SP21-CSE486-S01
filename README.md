@@ -4,7 +4,7 @@
 
 
 **1. Introduction**
-The app is for who are connected with Norhtsouth University Career & Placement Center.
+The app is for who are connected with Northtsouth University Career & Placement Center.
 
 The app has two panels. One for Admins and Another for Students.
 
